@@ -1,0 +1,29 @@
+h1 {
+    background: #fabada;
+    color: gray;
+    font-family: serif;
+    text-align: center;
+    }
+ul li{
+    text-align: center;
+    }
+p#diferent {
+    background: gray;
+    color: #fabada;
+    font-family: serif;
+    margin: 20px;
+    text-align: center;
+    }
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 20px;
+    }
+#blue{
+    background: blueviolet;
+}
+.celeste{
+    background: cadetblue;
+}
+
